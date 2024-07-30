@@ -82,24 +82,4 @@ func main() {
 	frequecy()
 }
 
-//Clean code style
-/*Write clear comments
-Use meaningful names
-Avoid duplicating code
-use abstraction
-reuse the piece of code
-functions short
-Use consistent formatting*/
 
-/*
-func checker(a string, b string) bool {
-	if len(a) != len(b) {
-		return false
-	}
-	for i := range a {
-		if a[i] != b[i] {
-			return false
-		}
-	}
-	return true
-}*/
